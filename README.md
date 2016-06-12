@@ -1,4 +1,4 @@
 tagmata-sync
 ============
 
-JASSCON Tagmata Sync
+Tagmata Sync
