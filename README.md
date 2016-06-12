@@ -1,4 +1,4 @@
 tagmata-sync
 ============
 
-Gauronit Tagmata Sync
+JASSCON Tagmata Sync
